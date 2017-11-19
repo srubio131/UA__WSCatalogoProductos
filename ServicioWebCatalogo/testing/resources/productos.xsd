@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:attribute name="status" type="xs:string"/>
+<xs:element name="catalog">
+<!-- <xs:complexContent> -->
+  <xs:element name="products">
+    <xs:element name="product"> 
+      <xs:sequence>
+       <xs:element name="id" type="xs:string"/>
+       <xs:element name="reference" type="xs:string"/>
+       <xs:element name="name" type="xs:CDATA"/>
+       <xs:element name="categories" />
+       <xs:element name="short_description" type="xs:CDATA"/>
+       <xs:element name="description" type="xs:CDATA"/>
+       <xs:element name="sizes" />
+       <xs:element name="color" />
+       <xs:element name="price" type="xs:string"/>
+       <xs:element name="price_with_tax" type="xs:string"/>
+       <xs:element name="manufacturer" type="xs:CDATA"/>
+       <xs:element name="photos" />
+       <xs:element name="updated" type="xs:integer"/>
+      </xs:sequence>
+    </xs:element>
+  </xs:element>
+<!--  </xs:complexContent> -->
+</xs:element>
+</xs:schema>

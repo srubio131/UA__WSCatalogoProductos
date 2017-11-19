@@ -1,0 +1,33 @@
+#AddDefaultCharset utf-8
+
+<IfModule mod_rewrite.c>
+    # Activar RewriteEngine
+    RewriteEngine on
+
+    # Reescribir la URL solicitada por el usuario
+    #   Entrada: 	exportar/catalogo/productos/
+    #   Salida: 	exportar/catalogo.php
+
+    #Options +FollowSymLinks
+    RewriteRule (.*)catalogo/productos(.*)$ $1catalogo.php$2
+
+#RewriteRule ^(.*)/catalogo/productos([0-9]+)$ /index.php?parametro=$1&paginador=$1 [QSA,L]     
+
+</IfModule>
+
+# Evitar que se listen los directorios
+Options All -Indexes
+
+#<IfModule mod_rewrite.c>
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-s
+#RewriteRule ^(.*)$ api.php?rquest=$1 [QSA,NC,L]
+
+#RewriteCond %{REQUEST_FILENAME} -d
+#RewriteRule ^(.*)$ api.php [QSA,NC,L]
+
+#RewriteCond %{REQUEST_FILENAME} -s
+#RewriteRule ^(.*)$ api.php [QSA,NC,L] 
+#</IfModule>
+

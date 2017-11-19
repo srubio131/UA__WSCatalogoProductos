@@ -1,0 +1,577 @@
+Referencia;Atributo;Valor
+LFNSSM-B-101;Talla:select,Color:select;S,Blanco
+LFNSSM-B-101;Talla:select,Color:select;S,Rojo
+LFNSSM-B-101;Talla:select,Color:select;S,Naranja
+LFNSSM-B-101;Talla:select,Color:select;S,Azul Celeste
+LFNSSM-B-101;Talla:select,Color:select;M,Blanco
+LFNSSM-B-101;Talla:select,Color:select;M,Rojo
+LFNSSM-B-101;Talla:select,Color:select;M,Naranja
+LFNSSM-B-101;Talla:select,Color:select;M,Azul Celeste
+LFNSSM-B-101;Talla:select,Color:select;L,Blanco
+LFNSSM-B-101;Talla:select,Color:select;L,Rojo
+LFNSSM-B-101;Talla:select,Color:select;L,Naranja
+LFNSSM-B-101;Talla:select,Color:select;L,Azul Celeste
+LFNSSM-B-104;Talla:select,Color:select;S,Negro
+LFNSSM-B-104;Talla:select,Color:select;S,Azul
+LFNSSM-B-104;Talla:select,Color:select;S,Rojo
+LFNSSM-B-104;Talla:select,Color:select;S,Leopardo
+LFNSSM-B-104;Talla:select,Color:select;M,Negro
+LFNSSM-B-104;Talla:select,Color:select;M,Azul
+LFNSSM-B-104;Talla:select,Color:select;M,Rojo
+LFNSSM-B-104;Talla:select,Color:select;M,Leopardo
+LFNSSM-B-104;Talla:select,Color:select;L,Negro
+LFNSSM-B-104;Talla:select,Color:select;L,Azul
+LFNSSM-B-104;Talla:select,Color:select;L,Rojo
+LFNSSM-B-104;Talla:select,Color:select;L,Leopardo
+LFNSSM-B-105;Talla:select,Color:select;S,Verde
+LFNSSM-B-105;Talla:select,Color:select;S,Blanco
+LFNSSM-B-105;Talla:select,Color:select;S,Rojo
+LFNSSM-B-105;Talla:select,Color:select;S,Rosa
+LFNSSM-B-105;Talla:select,Color:select;S,Azul
+LFNSSM-B-105;Talla:select,Color:select;M,Verde
+LFNSSM-B-105;Talla:select,Color:select;M,Blanco
+LFNSSM-B-105;Talla:select,Color:select;M,Rojo
+LFNSSM-B-105;Talla:select,Color:select;M,Rosa
+LFNSSM-B-105;Talla:select,Color:select;M,Azul
+LFNSSM-B-105;Talla:select,Color:select;L,Verde
+LFNSSM-B-105;Talla:select,Color:select;L,Blanco
+LFNSSM-B-105;Talla:select,Color:select;L,Rojo
+LFNSSM-B-105;Talla:select,Color:select;L,Rosa
+LFNSSM-B-105;Talla:select,Color:select;L,Azul
+LFNSSM-B-107;Talla:select,Color:select;S,Verde
+LFNSSM-B-107;Talla:select,Color:select;S,Rosa
+LFNSSM-B-107;Talla:select,Color:select;S,Negro
+LFNSSM-B-107;Talla:select,Color:select;S,Naranja
+LFNSSM-B-107;Talla:select,Color:select;M,Verde
+LFNSSM-B-107;Talla:select,Color:select;M,Rosa
+LFNSSM-B-107;Talla:select,Color:select;M,Negro
+LFNSSM-B-107;Talla:select,Color:select;M,Naranja
+LFNSSM-B-107;Talla:select,Color:select;L,Verde
+LFNSSM-B-107;Talla:select,Color:select;L,Rosa
+LFNSSM-B-107;Talla:select,Color:select;L,Negro
+LFNSSM-B-107;Talla:select,Color:select;L,Naranja
+LFNSSM-B-109;Talla:select,Color:select;S,Rojo
+LFNSSM-B-109;Talla:select,Color:select;S,Rosa
+LFNSSM-B-109;Talla:select,Color:select;S,Azul
+LFNSSM-B-109;Talla:select,Color:select;S,Lila
+LFNSSM-B-109;Talla:select,Color:select;M,Rojo
+LFNSSM-B-109;Talla:select,Color:select;M,Rosa
+LFNSSM-B-109;Talla:select,Color:select;M,Azul
+LFNSSM-B-109;Talla:select,Color:select;M,Lila
+LFNSSM-B-109;Talla:select,Color:select;L,Rojo
+LFNSSM-B-109;Talla:select,Color:select;L,Rosa
+LFNSSM-B-109;Talla:select,Color:select;L,Azul
+LFNSSM-B-109;Talla:select,Color:select;L,Lila
+LFNSSM-B-110;Talla:select;S
+LFNSSM-B-110;Talla:select;M
+LFNSSM-B-110;Talla:select;L
+LFNSSM-B-112;Talla:select,Color:select;S,Marrón
+LFNSSM-B-112;Talla:select,Color:select;S,Rosa
+LFNSSM-B-112;Talla:select,Color:select;S,Verde
+LFNSSM-B-112;Talla:select,Color:select;M,Marrón
+LFNSSM-B-112;Talla:select,Color:select;M,Rosa
+LFNSSM-B-112;Talla:select,Color:select;M,Verde
+LFNSSM-B-112;Talla:select,Color:select;L,Marrón
+LFNSSM-B-112;Talla:select,Color:select;L,Rosa
+LFNSSM-B-112;Talla:select,Color:select;L,Verde
+LFNSSM-B-115;Talla:select,Color:select;S,Negro
+LFNSSM-B-115;Talla:select,Color:select;S,Rojo
+LFNSSM-B-115;Talla:select,Color:select;S,Blanco
+LFNSSM-B-115;Talla:select,Color:select;S,Verde
+LFNSSM-B-115;Talla:select,Color:select;M,Negro
+LFNSSM-B-115;Talla:select,Color:select;M,Rojo
+LFNSSM-B-115;Talla:select,Color:select;M,Blanco
+LFNSSM-B-115;Talla:select,Color:select;M,Verde
+LFNSSM-B-115;Talla:select,Color:select;L,Negro
+LFNSSM-B-115;Talla:select,Color:select;L,Rojo
+LFNSSM-B-115;Talla:select,Color:select;L,Blanco
+LFNSSM-B-115;Talla:select,Color:select;L,Verde
+LFNSSM-B-117;Talla:select;S
+LFNSSM-B-117;Talla:select;M
+LFNSSM-B-117;Talla:select;L
+LFNSSM-B-118;Talla:select,Color:select;S,Azul Claro
+LFNSSM-B-118;Talla:select,Color:select;S,Rosa
+LFNSSM-B-118;Talla:select,Color:select;S,Blanco
+LFNSSM-B-118;Talla:select,Color:select;S,Azul
+LFNSSM-B-118;Talla:select,Color:select;S,Verde
+LFNSSM-B-118;Talla:select,Color:select;S,Negro
+LFNSSM-B-118;Talla:select,Color:select;M,Azul Claro
+LFNSSM-B-118;Talla:select,Color:select;M,Rosa
+LFNSSM-B-118;Talla:select,Color:select;M,Blanco
+LFNSSM-B-118;Talla:select,Color:select;M,Azul
+LFNSSM-B-118;Talla:select,Color:select;M,Verde
+LFNSSM-B-118;Talla:select,Color:select;M,Negro
+LFNSSM-B-118;Talla:select,Color:select;L,Azul Claro
+LFNSSM-B-118;Talla:select,Color:select;L,Rosa
+LFNSSM-B-118;Talla:select,Color:select;L,Blanco
+LFNSSM-B-118;Talla:select,Color:select;L,Azul
+LFNSSM-B-118;Talla:select,Color:select;L,Verde
+LFNSSM-B-118;Talla:select,Color:select;L,Negro
+LFNSSM-B-119;Talla:select,Color:select;S,Rosa
+LFNSSM-B-119;Talla:select,Color:select;S,Verde
+LFNSSM-B-119;Talla:select,Color:select;S,Violeta
+LFNSSM-B-119;Talla:select,Color:select;S,Azul
+LFNSSM-B-119;Talla:select,Color:select;M,Rosa
+LFNSSM-B-119;Talla:select,Color:select;M,Verde
+LFNSSM-B-119;Talla:select,Color:select;M,Violeta
+LFNSSM-B-119;Talla:select,Color:select;M,Azul
+LFNSSM-B-119;Talla:select,Color:select;L,Rosa
+LFNSSM-B-119;Talla:select,Color:select;L,Verde
+LFNSSM-B-119;Talla:select,Color:select;L,Violeta
+LFNSSM-B-119;Talla:select,Color:select;L,Azul
+LFNSSM-B-121;Talla:select,Color:select;S,Rojo
+LFNSSM-B-121;Talla:select,Color:select;S,Violeta
+LFNSSM-B-121;Talla:select,Color:select;S,Negro
+LFNSSM-B-121;Talla:select,Color:select;M,Rojo
+LFNSSM-B-121;Talla:select,Color:select;M,Violeta
+LFNSSM-B-121;Talla:select,Color:select;M,Negro
+LFNSSM-B-121;Talla:select,Color:select;L,Rojo
+LFNSSM-B-121;Talla:select,Color:select;L,Violeta
+LFNSSM-B-121;Talla:select,Color:select;L,Negro
+LFNSSM-B-122;Talla:select,Color:select;S,Negro
+LFNSSM-B-122;Talla:select,Color:select;S,Rojo
+LFNSSM-B-122;Talla:select,Color:select;S,Verde
+LFNSSM-B-122;Talla:select,Color:select;S,Blanco
+LFNSSM-B-122;Talla:select,Color:select;M,Negro
+LFNSSM-B-122;Talla:select,Color:select;M,Rojo
+LFNSSM-B-122;Talla:select,Color:select;M,Verde
+LFNSSM-B-122;Talla:select,Color:select;M,Blanco
+LFNSSM-B-122;Talla:select,Color:select;L,Negro
+LFNSSM-B-122;Talla:select,Color:select;L,Rojo
+LFNSSM-B-122;Talla:select,Color:select;L,Verde
+LFNSSM-B-122;Talla:select,Color:select;L,Blanco
+LFNSSM-B-123;Talla:select,Color:select;S,Azul Claro
+LFNSSM-B-123;Talla:select,Color:select;S,Verde
+LFNSSM-B-123;Talla:select,Color:select;S,Violeta
+LFNSSM-B-123;Talla:select,Color:select;S,Rojo
+LFNSSM-B-123;Talla:select,Color:select;M,Azul Claro
+LFNSSM-B-123;Talla:select,Color:select;M,Verde
+LFNSSM-B-123;Talla:select,Color:select;M,Violeta
+LFNSSM-B-123;Talla:select,Color:select;M,Rojo
+LFNSSM-B-123;Talla:select,Color:select;L,Azul Claro
+LFNSSM-B-123;Talla:select,Color:select;L,Verde
+LFNSSM-B-123;Talla:select,Color:select;L,Violeta
+LFNSSM-B-123;Talla:select,Color:select;L,Rojo
+LFNSSM-B-124;Talla:select,Color:select;S,Violeta
+LFNSSM-B-124;Talla:select,Color:select;S,Azul
+LFNSSM-B-124;Talla:select,Color:select;S,Amarillo
+LFNSSM-B-124;Talla:select,Color:select;S,Rosa
+LFNSSM-B-124;Talla:select,Color:select;M,Violeta
+LFNSSM-B-124;Talla:select,Color:select;M,Azul
+LFNSSM-B-124;Talla:select,Color:select;M,Amarillo
+LFNSSM-B-124;Talla:select,Color:select;M,Rosa
+LFNSSM-B-124;Talla:select,Color:select;L,Violeta
+LFNSSM-B-124;Talla:select,Color:select;L,Azul
+LFNSSM-B-124;Talla:select,Color:select;L,Amarillo
+LFNSSM-B-124;Talla:select,Color:select;L,Rosa
+LFNSSM-BAT-02;Talla:select;Talla única
+LFNSSM-BAT-03;Talla:select;Talla única
+LFNSSM-BAT-04;Talla:select;Talla única
+LFNSSM-BAT-05;Talla:select;Talla única
+LFNSSM-BAT-4000;Talla:select;Talla única
+LFNSSM-CHE-6000;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-CHE-6002;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-CHE-6003;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-CHE-6007;Talla:select;Talla única
+LFNSSM-CHE-6008;Talla:select;Talla única
+LFNSSM-CHE-6011;Talla:select;Talla única
+LFNSSM-CHE-6015;Talla:select;Talla única
+LFNSSM-CHE-6019;Talla:select,Color:select;Talla única,Negro
+LFNSSM-CHE-6021;Talla:select,Color:select;Talla única,Negro
+LFNSSM-CHE-6021;Talla:select,Color:select;Talla única,Salmon
+LFNSSM-CHE-6021;Talla:select,Color:select;Talla única,Amarillo
+LFNSSM-CHE-6023;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-CHE-6023;Talla:select,Color:select;Talla única,Azul
+LFNSSM-CHE-6025;Talla:select,Color:select;Talla única,Purpura
+LFNSSM-CHE-6027;Talla:select,Color:select;Talla única,Negro
+LFNSSM-CHE-6027;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-CHE-6051;Talla:select;Talla única
+LFNSSM-CHE-6056;Talla:select;Talla única
+LFNSSM-CHE-6069;Talla:select;Talla única
+LFNSSM-CHE-6070;Talla:select;Talla única
+LFNSSM-CON-8001;Talla:select,Color:select;S,Blanco
+LFNSSM-CON-8001;Talla:select,Color:select;M,Blanco
+LFNSSM-CON-8001;Talla:select,Color:select;L,Blanco
+LFNSSM-CON-8003;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-CRS-0006;Talla:select,Color:select;M,Púrpura
+LFNSSM-CRS-0006;Talla:select,Color:select;S,Púrpura
+LFNSSM-CRS-0006;Talla:select,Color:select;L,Púrpura
+LFNSSM-CRS-0006;Talla:select,Color:select;XL,Púrpura
+LFNSSM-CRS-0009;Talla:select,Color:select;S,Blanco
+LFNSSM-CRS-0009;Talla:select,Color:select;M,Blanco
+LFNSSM-CRS-0009;Talla:select,Color:select;L,Blanco
+LFNSSM-CRS-0009;Talla:select,Color:select;XL,Blanco
+LFNSSM-CRS-0010;Talla:select;S
+LFNSSM-CRS-0010;Talla:select;M
+LFNSSM-CRS-0010;Talla:select;L
+LFNSSM-CRS-0010;Talla:select;XL
+LFNSSM-CRS-0056;Talla:select,Color:select;S,Negro
+LFNSSM-CRS-0056;Talla:select,Color:select;M,Negro
+LFNSSM-CRS-0056;Talla:select,Color:select;L,Negro
+LFNSSM-CRS-0056;Talla:select,Color:select;XL,Negro
+LFNSSM-CRS-0056;Talla:select,Color:select;XXL,Negro
+LFNSSM-CRS-0153;Talla:select;S
+LFNSSM-CRS-0153;Talla:select;M
+LFNSSM-CRS-0153;Talla:select;L
+LFNSSM-CRS-0153;Talla:select;XL
+LFNSSM-CRS-0166;Talla:select;S
+LFNSSM-CRS-0166;Talla:select;M
+LFNSSM-CRS-0166;Talla:select;L
+LFNSSM-CRS-0166;Talla:select;XL
+LFNSSM-CRS-0173;Talla:select;S
+LFNSSM-CRS-0173;Talla:select;M
+LFNSSM-CRS-0173;Talla:select;L
+LFNSSM-CRS-0173;Talla:select;XL
+LFNSSM-CRS-0173;Talla:select;XXL
+LFNSSM-CRS-0176;Talla:select;S
+LFNSSM-CRS-0176;Talla:select;M
+LFNSSM-CRS-0176;Talla:select;L
+LFNSSM-CRS-0176;Talla:select;XL
+LFNSSM-CRS-0177;Talla:select;S
+LFNSSM-CRS-0177;Talla:select;M
+LFNSSM-CRS-0177;Talla:select;L
+LFNSSM-CRS-0177;Talla:select;XL
+LFNSSM-CRS-0181;Talla:select;S
+LFNSSM-CRS-0181;Talla:select;M
+LFNSSM-CRS-0181;Talla:select;L
+LFNSSM-CRS-0181;Talla:select;XL
+LFNSSM-CRS-0187;Talla:select;S
+LFNSSM-CRS-0187;Talla:select;M
+LFNSSM-CRS-0187;Talla:select;L
+LFNSSM-CRS-0187;Talla:select;XL
+LFNSSM-CRS-0190;Talla:select;S
+LFNSSM-CRS-0190;Talla:select;M
+LFNSSM-CRS-0190;Talla:select;L
+LFNSSM-CRS-0190;Talla:select;XL
+LFNSSM-CRS-0192;Talla:select;S
+LFNSSM-CRS-0192;Talla:select;M
+LFNSSM-CRS-0192;Talla:select;L
+LFNSSM-CRS-0192;Talla:select;XL
+LFNSSM-CRS-0193;Talla:select;S
+LFNSSM-CRS-0193;Talla:select;M
+LFNSSM-CRS-0193;Talla:select;L
+LFNSSM-CRS-0193;Talla:select;XL
+LFNSSM-CRS-0195;Talla:select;S
+LFNSSM-CRS-0195;Talla:select;M
+LFNSSM-CRS-0195;Talla:select;L
+LFNSSM-CRS-0195;Talla:select;XL
+LFNSSM-CRS-0214;Talla:select;S
+LFNSSM-CRS-0214;Talla:select;M
+LFNSSM-CRS-0214;Talla:select;L
+LFNSSM-CRS-0214;Talla:select;XL
+LFNSSM-CRS-0214;Talla:select;XXL
+LFNSSM-CRS-0221;Talla:select;S
+LFNSSM-CRS-0221;Talla:select;M
+LFNSSM-CRS-0221;Talla:select;L
+LFNSSM-CRS-0221;Talla:select;XL
+LFNSSM-CRS-0225;Talla:select;S
+LFNSSM-CRS-0225;Talla:select;M
+LFNSSM-CRS-0225;Talla:select;L
+LFNSSM-CRS-0225;Talla:select;XL
+LFNSSM-CRS-0225;Talla:select;XXL
+LFNSSM-CRS-0226;Talla:select;S
+LFNSSM-CRS-0226;Talla:select;M
+LFNSSM-CRS-0226;Talla:select;L
+LFNSSM-CRS-0226;Talla:select;XL
+LFNSSM-CRS-0251;Talla:select,Color:select;S,Rojo
+LFNSSM-CRS-0251;Talla:select,Color:select;S,Negro
+LFNSSM-CRS-0251;Talla:select,Color:select;S,Blanco
+LFNSSM-CRS-0251;Talla:select,Color:select;M,Rojo
+LFNSSM-CRS-0251;Talla:select,Color:select;M,Negro
+LFNSSM-CRS-0251;Talla:select,Color:select;M,Blanco
+LFNSSM-CRS-0251;Talla:select,Color:select;L,Rojo
+LFNSSM-CRS-0251;Talla:select,Color:select;L,Negro
+LFNSSM-CRS-0251;Talla:select,Color:select;L,Blanco
+LFNSSM-CRS-0251;Talla:select,Color:select;XL,Rojo
+LFNSSM-CRS-0251;Talla:select,Color:select;XL,Negro
+LFNSSM-CRS-0251;Talla:select,Color:select;XL,Blanco
+LFNSSM-CRS-0255;Talla:select,Color:select;XL,Azul
+LFNSSM-CRS-0255;Talla:select,Color:select;XL,Marrón
+LFNSSM-CRS-0255;Talla:select,Color:select;L,Azul
+LFNSSM-CRS-0255;Talla:select,Color:select;L,Marrón
+LFNSSM-CRS-0255;Talla:select,Color:select;M,Azul
+LFNSSM-CRS-0255;Talla:select,Color:select;M,Marrón
+LFNSSM-CRS-0255;Talla:select,Color:select;S,Azul
+LFNSSM-CRS-0255;Talla:select,Color:select;S,Marrón
+LFNSSM-CRS-0260;Talla:select,Color:select;Talla Unica,Negro
+LFNSSM-CRS-0271;Talla:select;S
+LFNSSM-CRS-0271;Talla:select;M
+LFNSSM-CRS-0271;Talla:select;L
+LFNSSM-CRS-0271;Talla:select;XL
+LFNSSM-DBY-3001;Talla:select,Color:select;Talla única,Blanco y Rosa
+LFNSSM-DBY-3010;Talla:select,Color:select;Talla única,Negro con lazo azul
+LFNSSM-DBY-3012;Talla:select;Talla única
+LFNSSM-DBY-3058;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-DBY-8701;Talla:select;Talla única
+LFNSSM-DBY-8702;Talla:select;Talla única
+LFNSSM-DBY-8703;Talla:select;Talla única
+LFNSSM-DIS-1036;Talla:select,Color:select;Talla única,Plata
+LFNSSM-DIS-1036;Talla:select,Color:select;Talla única,Negro
+LFNSSM-DIS-1039;Talla:select;Talla única
+LFNSSM-DIS-1044;Talla:select;Talla única
+LFNSSM-DIS-1088;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1092;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1096;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1097;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1098;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1100;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1101;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1102;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1103;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1104;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1105;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1106;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1107;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1108;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1109;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1110;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1111;Talla:select;M
+LFNSSM-DIS-1111;Talla:select;L
+LFNSSM-DIS-1111;Talla:select;XL
+LFNSSM-DIS-1112;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-1479;Talla:select;Talla Unica (M/L)
+LFNSSM-DIS-2001;Talla:select;Talla única
+LFNSSM-DIS-2002;Talla:select;Talla única
+LFNSSM-DIS-2005;Talla:select;Talla única
+LFNSSM-DIS-2006;Talla:select;Talla única
+LFNSSM-G-03;Talla:select,Color:select;Talla Única,Blanco
+LFNSSM-G-03;Talla:select,Color:select;Talla Única,Negro
+LFNSSM-G-03;Talla:select,Color:select;Talla Única,Rosa
+LFNSSM-G-03;Talla:select,Color:select;Talla Única,Azul
+LFNSSM-G-05;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-LEG-2001;Talla:select;Talla única
+LFNSSM-LEG-2002;Talla:select;Talla única
+LFNSSM-LEG-2004;Talla:select;Talla única
+LFNSSM-LEG-2005;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2006;Talla:select;Talla única
+LFNSSM-LEG-2007;Talla:select;Talla única
+LFNSSM-LEG-2008;Talla:select;Talla única
+LFNSSM-LEG-2009;Talla:select;Talla única
+LFNSSM-LEG-2010;Talla:select;Talla única
+LFNSSM-LEG-2011;Talla:select;Talla única
+LFNSSM-LEG-2012;Talla:select;Talla única
+LFNSSM-LEG-2013;Talla:select;Talla única
+LFNSSM-LEG-2014;Talla:select;Talla única
+LFNSSM-LEG-2015;Talla:select;Talla única
+LFNSSM-LEG-2016;Talla:select;Talla única
+LFNSSM-LEG-2017;Talla:select;Talla única
+LFNSSM-LEG-2018;Talla:select;Talla única
+LFNSSM-LEG-2020;Talla:select;Talla única
+LFNSSM-LEG-2021;Talla:select;Talla única
+LFNSSM-LEG-2022;Talla:select;Talla única
+LFNSSM-LEG-2041;Talla:select;Talla única
+LFNSSM-LEG-2064;Talla:select;Talla única
+LFNSSM-LEG-2081;Talla:select;Talla única
+LFNSSM-LEG-2096;Talla:select;Talla única
+LFNSSM-LEG-2106;Talla:select;Talla única
+LFNSSM-LEG-2112;Talla:select;Talla única
+LFNSSM-LEG-2114;Talla:select;Talla única
+LFNSSM-LEG-2156;Talla:select;Talla única
+LFNSSM-LEG-2171;Talla:select;Talla única
+LFNSSM-LEG-2209;Talla:select;Talla única
+LFNSSM-LEG-2225;Talla:select;Talla única
+LFNSSM-LEG-2228;Talla:select;Talla única
+LFNSSM-LEG-2242;Talla:select;Talla única
+LFNSSM-LEG-2245;Talla:select;Talla única
+LFNSSM-LEG-2265;Talla:select;Talla única
+LFNSSM-LEG-2269;Talla:select;Talla única
+LFNSSM-LEG-2275;Talla:select;Talla única
+LFNSSM-LEG-2277;Talla:select;Talla única
+LFNSSM-LEG-2278;Talla:select;Talla única
+LFNSSM-LEG-2279;Talla:select;Talla única
+LFNSSM-LEG-2280;Talla:select;Talla única
+LFNSSM-LEG-2281;Talla:select;Talla única
+LFNSSM-LEG-2282;Talla:select;Talla única
+LFNSSM-LEG-2283;Talla:select;Talla única
+LFNSSM-LEG-2289;Talla:select,Color:select;Talla Única,Negro
+LFNSSM-LEG-2290;Talla:select;Talla única
+LFNSSM-LEG-2297;Talla:select;Talla única
+LFNSSM-LEG-2299;Talla:select;Talla única
+LFNSSM-LEG-2327;Talla:select;Talla única
+LFNSSM-LEG-2328;Talla:select;Talla única
+LFNSSM-LEG-2329;Talla:select;Talla única
+LFNSSM-LEG-2330;Talla:select;Talla única
+LFNSSM-LEG-2331;Talla:select;Talla única
+LFNSSM-LEG-2332;Talla:select;Talla única
+LFNSSM-LEG-2333;Talla:select;Talla única
+LFNSSM-LEG-2334;Talla:select;Talla única
+LFNSSM-LEG-2335;Talla:select;Talla única
+LFNSSM-LEG-2336;Talla:select;Talla única
+LFNSSM-LEG-2337;Talla:select;Talla única
+LFNSSM-LEG-2338;Talla:select;Talla única
+LFNSSM-LEG-2339;Talla:select;Talla única
+LFNSSM-LEG-2340;Talla:select;Talla única
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Verde
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Lila
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2341;Talla:select,Color:select;Talla única,Marrón
+LFNSSM-LEG-2342;Talla:select;Talla única
+LFNSSM-LEG-2343;Talla:select;Talla única
+LFNSSM-LEG-2344;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-LEG-2344;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-LEG-2345;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2345;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-LEG-2345;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2345;Talla:select,Color:select;Talla única,Marrón
+LFNSSM-LEG-2346;Talla:select;Talla única
+LFNSSM-LEG-2347;Talla:select;Talla única
+LFNSSM-LEG-2348;Talla:select;Talla única
+LFNSSM-LEG-2349;Talla:select,Color:select;Talla única,Dorado
+LFNSSM-LEG-2349;Talla:select,Color:select;Talla única,Plateado
+LFNSSM-LEG-2350;Talla:select;Talla única
+LFNSSM-LEG-2351;Talla:select;Talla única
+LFNSSM-LEG-2352;Talla:select;Talla única
+LFNSSM-LEG-2353;Talla:select;Talla única
+LFNSSM-LEG-2354;Talla:select;Talla única
+LFNSSM-LEG-2355;Talla:select;Talla única
+LFNSSM-LEG-2356;Talla:select;Talla única
+LFNSSM-LEG-2357;Talla:select;Talla única
+LFNSSM-LEG-2358;Talla:select,Color:select;Talla única,Amarillo
+LFNSSM-LEG-2358;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2358;Talla:select,Color:select;Talla única,Verde
+LFNSSM-LEG-2359;Talla:select;Talla única
+LFNSSM-LEG-2360;Talla:select;Talla única
+LFNSSM-LEG-2361;Talla:select;Talla única
+LFNSSM-LEG-2362;Talla:select;Talla única
+LFNSSM-LEG-2363;Talla:select;Talla única
+LFNSSM-LEG-2364;Talla:select;Talla única
+LFNSSM-LEG-2365;Talla:select;Talla única
+LFNSSM-LEG-2366;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2366;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-LEG-2366;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2366;Talla:select,Color:select;Talla única,Amarillo
+LFNSSM-LEG-2366;Talla:select,Color:select;Talla única,Naranja
+LFNSSM-LEG-2367;Talla:select;Talla única
+LFNSSM-LEG-2368;Talla:select;Talla única
+LFNSSM-LEG-2369;Talla:select;Talla única
+LFNSSM-LEG-2370;Talla:select;Talla única
+LFNSSM-LEG-2372;Talla:select;Talla única
+LFNSSM-LEG-2373;Talla:select;Talla única
+LFNSSM-LEG-2374;Talla:select;Talla única
+LFNSSM-LEG-2375;Talla:select;Talla única
+LFNSSM-LEG-2376;Talla:select;Talla única
+LFNSSM-LEG-2377;Talla:select;Talla única
+LFNSSM-LEG-2378;Talla:select;Talla única
+LFNSSM-LEG-2379;Talla:select;Talla única
+LFNSSM-LEG-2380;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2380;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2381;Talla:select;Talla única
+LFNSSM-LEG-2382;Talla:select;Talla única
+LFNSSM-LEG-2383;Talla:select;Talla única
+LFNSSM-LEG-2384;Talla:select;Talla única
+LFNSSM-LEG-2385;Talla:select;Talla única
+LFNSSM-LEG-2386;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2386;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-LEG-2386;Talla:select,Color:select;Talla única,Marrón
+LFNSSM-LEG-2387;Talla:select;Talla única
+LFNSSM-LEG-2388;Talla:select;Talla única
+LFNSSM-LEG-2389;Talla:select;Talla única
+LFNSSM-LEG-2390;Talla:select;Talla única
+LFNSSM-LEG-2391;Talla:select;Talla única
+LFNSSM-LEG-2392;Talla:select;Talla única
+LFNSSM-LEG-2393;Talla:select;Talla única
+LFNSSM-LEG-2394;Talla:select;Talla única
+LFNSSM-LEG-2395;Talla:select;Talla única
+LFNSSM-LEG-2396;Talla:select;Talla única
+LFNSSM-LEG-2397;Talla:select;Talla única
+LFNSSM-LEG-2398;Talla:select;Talla única
+LFNSSM-LEG-2400;Talla:select;Talla única
+LFNSSM-LEG-2401;Talla:select;Talla única
+LFNSSM-LEG-2402;Talla:select;Talla única
+LFNSSM-LEG-2403;Talla:select;Talla única
+LFNSSM-LEG-2404;Talla:select;Talla única
+LFNSSM-LEG-2405;Talla:select;Talla única
+LFNSSM-LEG-2406;Talla:select;Talla única
+LFNSSM-LEG-2407;Talla:select;Talla única
+LFNSSM-LEG-2408;Talla:select;Talla única
+LFNSSM-LEG-2409;Talla:select;Talla única
+LFNSSM-LEG-2410;Talla:select;Talla única
+LFNSSM-LEG-2411;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-LEG-2411;Talla:select,Color:select;Talla única,Marron
+LFNSSM-LEG-2411;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2411;Talla:select,Color:select;Talla única,Azul electrico
+LFNSSM-LEG-2411;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2412;Talla:select;Talla única
+LFNSSM-LEG-2413;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2413;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2414;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-LEG-2414;Talla:select,Color:select;Talla única,Verde
+LFNSSM-LEG-2414;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2415;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2415;Talla:select,Color:select;Talla única,Marron
+LFNSSM-LEG-2415;Talla:select,Color:select;Talla única,Verde
+LFNSSM-LEG-2416;Talla:select;Talla única
+LFNSSM-LEG-2417;Talla:select;Talla única
+LFNSSM-LEG-2418;Talla:select;Talla única
+LFNSSM-LEG-2419;Talla:select;Talla única
+LFNSSM-LEG-2420;Talla:select;Talla única
+LFNSSM-LEG-2421;Talla:select;Talla única
+LFNSSM-LEG-2422;Talla:select;Talla única
+LFNSSM-LEG-2423;Talla:select;Talla única
+LFNSSM-LEG-2424;Talla:select;Talla única
+LFNSSM-LEG-2425;Talla:select;Talla única
+LFNSSM-LEG-2426;Talla:select;Talla única
+LFNSSM-LEG-2427;Talla:select;Talla única
+LFNSSM-LEG-2428;Talla:select;Talla única
+LFNSSM-LEG-2429;Talla:select;Talla única
+LFNSSM-LEG-2430;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-LEG-2430;Talla:select,Color:select;Talla única,Marron
+LFNSSM-LEG-2430;Talla:select,Color:select;Talla única,Verde
+LFNSSM-LEG-2430;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2431;Talla:select;Talla única
+LFNSSM-LEG-2432;Talla:select;Talla única
+LFNSSM-LEG-2433;Talla:select;Talla única
+LFNSSM-LEG-2434;Talla:select;Talla única
+LFNSSM-LEG-2435;Talla:select;Talla única
+LFNSSM-LEG-2437;Talla:select;Talla única
+LFNSSM-LEG-2438;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2438;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2439;Talla:select,Color:select;Talla unica,Azul
+LFNSSM-LEG-2439;Talla:select,Color:select;Talla unica,Negro
+LFNSSM-LEG-2439;Talla:select,Color:select;Talla unica,Cris
+LFNSSM-LEG-2440;Talla:select;Talla única
+LFNSSM-LEG-2441;Talla:select;Talla única
+LFNSSM-LEG-2442;Talla:select;Talla única
+LFNSSM-LEG-2443;Talla:select;Talla única
+LFNSSM-LEG-2444;Talla:select;Talla única
+LFNSSM-LEG-2445;Talla:select,Color:select;Talla única,Dorado
+LFNSSM-LEG-2445;Talla:select,Color:select;Talla única,Plateado
+LFNSSM-LEG-2446;Talla:select;Talla única
+LFNSSM-LEG-2447;Talla:select;Talla única
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Azul
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Amarillo
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Negro
+LFNSSM-LEG-2448;Talla:select,Color:select;Talla única,Marrón
+LFNSSM-MED-10012;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-NAV-0006;Talla:select,Color:select;S,Rojo
+LFNSSM-NAV-0006;Talla:select,Color:select;M,Rojo
+LFNSSM-NAV-0006;Talla:select,Color:select;L,Rojo
+LFNSSM-NAV-0006;Talla:select,Color:select;XL,Rojo
+LFNSSM-PIC-5001;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-PIC-5001;Talla:select,Color:select;Talla única,Negro
+LFNSSM-PIC-5004;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-PIC-5007;Talla:select;Talla única
+LFNSSM-PIC-5016;Talla:select;Talla única
+LFNSSM-PIC-5024;Talla:select,Color:select;Talla única,Negro
+LFNSSM-PIC-5024;Talla:select,Color:select;Talla única,Rojo
+LFNSSM-PIC-5092;Talla:select;Talla única
+LFNSSM-PIC-5369;Talla:select;Talla única
+LFNSSM-PIC-5390;Talla:select;Talla única
+LFNSSM-PIC-5409;Talla:select;Talla única
+LFNSSM-PIC-5415;Talla:select,Color:select;Talla única,Negro
+LFNSSM-PIC-5415;Talla:select,Color:select;Talla única,Rosa
+LFNSSM-PIC-5415;Talla:select,Color:select;Talla única,Violeta
+LFNSSM-TAN-05;Talla:select;Talla única
+LFNSSM-TAN-7000;Talla:select,Color:select;Talla única,Blanco
+LFNSSM-TAN-7001;Talla:select;Talla Unica (M/L)
+LFNSSM-TAP-02;Talla:select;Talla única
+LFNSSM-TAP-03;Talla:select;Talla única
+LFNSSM-TAP-06;Talla:select;Talla única
+LFNSSM-TAP-12;Talla:select;Talla única
+LFNSSM-TAP-14;Talla:select;Talla única
+LFNSSM-TAP-28;Talla:select;Talla única
+LFNSSM-TAP-30;Talla:select;Talla única
