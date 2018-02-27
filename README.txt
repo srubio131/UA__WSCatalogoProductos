@@ -1,6 +1,4 @@
-﻿# Servicio Web para sincronización catálogos entre tiendas virtuales
-# Autor: Sergio Rubio
-# Email: s.rubio131@gmail.com
+# Servicio Web para sincronización catálogos entre tiendas virtuales
 
 Los pasos a seguir para la correcta INSTALACIÓN del servicio Web de sincronización de catálogo son los siguientes:
 
